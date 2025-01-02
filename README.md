@@ -70,9 +70,9 @@ The function uses a regular expression to insert commas at every thousand, start
 num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 ```
 
-<!-- ## Contributing
+## Contributing
 
-Contributions are welcome! If you’d like to improve this library or report an issue, feel free to open a GitHub issue or submit a pull request. Visit the [GitHub repository](https://github.com/your-username/format-number-lib) for more details. -->
+Contributions are welcome! If you’d like to improve this library or report an issue, feel free to open a GitHub issue or submit a pull request. Visit the [GitHub repository](https://github.com/app-tech5/format-number-lib) for more details.
 
 ## License
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Author
 
-Developed by **djagat**. If you find this library helpful, don’t forget to give it a ⭐ on GitHub!
+Developed by **app-tech5**. If you find this library helpful, don’t forget to give it a ⭐ on GitHub!
