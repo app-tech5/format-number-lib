@@ -1,7 +1,7 @@
 /**
- * Formatte un nombre avec des séparateurs de milliers.
- * @param {number} num - Le nombre à formater.
- * @returns {string} Le nombre formaté.
+ * Formats a number with thousand separators.
+ * @param {number} num - The number to format.
+ * @returns {string} The formatted number.
  */
 function formatNumber(num) {
     if (typeof num !== 'number') {
