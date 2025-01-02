@@ -1,6 +1,6 @@
 {
   "name": "format-number-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple library to format numbers with thousand separators",
   "main": "index.js",
   "scripts": {
